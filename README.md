@@ -6,5 +6,5 @@
 
 --> Open for mentorship
 
-
+![rod-bb GitHub stats](https://github-readme-stats.vercel.app/api?username=rod-bb&show_icons=true&theme=transparent)
 
